@@ -1,5 +1,5 @@
 # Create Mango Starter
-The official cli for creating mango db's,
+The official cli for creating mango db's.
 
 ## Usage
 You dont need to install the module to use it. You can run it by doing

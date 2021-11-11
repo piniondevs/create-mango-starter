@@ -1,7 +1,7 @@
 {
   "name": "create-mango-starter",
   "version": "1.0.1",
-  "description": "The tool to boilerplate mango database apps,",
+  "description": "The tool to boilerplate mango databases.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/piniondevs/create-mango-starter"
   },
-  "keywords": [],
+  "keywords": ["cli", "database", "boilerplate"],
   "author": "",
   "license": "MIT",
   "bugs": {
