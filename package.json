@@ -1,6 +1,6 @@
 {
   "name": "create-mango-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The tool to boilerplate mango database apps,",
   "main": "index.js",
   "scripts": {
