@@ -1,0 +1,30 @@
+{
+  "name": "create-mango-starter",
+  "version": "1.0.0",
+  "description": "The tool to boilerplate mango database apps,",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piniondevs/create-mango-starter"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piniondevs/create-mango-starter/issues"
+  },
+  "homepage": "https://github.com/piniondevs/create-mango-starter#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "ora": "^6.0.1",
+    "prompts": "^2.4.2"
+  },
+  "bin": {
+    "create-mango-starter": "index.js"
+  },
+  "type": "module"
+}
